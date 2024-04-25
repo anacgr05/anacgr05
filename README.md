@@ -1,4 +1,5 @@
-![image](https://github.com/anacgr05/anacgr05/assets/151938722/995450df-54b2-45cf-80e5-3ee55a5c74b1)
+![post_thumbnail-55a60f34beddda4324a2e11c4503b6f8-1024x576](https://github.com/anacgr05/anacgr05/assets/151938722/5c1be638-f6dd-4f1a-98a0-ccde54e75e64)
+
 
 ## Hi, I’m Ana Clara! How are you?
 - 👀 I’m interested in technology and innovation.
