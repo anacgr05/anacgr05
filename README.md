@@ -1,4 +1,5 @@
-![post_thumbnail-55a60f34beddda4324a2e11c4503b6f8-1024x576](https://github.com/anacgr05/anacgr05/assets/151938722/5c1be638-f6dd-4f1a-98a0-ccde54e75e64)
+![post_thumbnail-55a60f34beddda4324a2e11c4503b6f8-1024x576](https://github.com/anacgr05/anacgr05/assets/151938722/a1c61762-f08f-4e17-99f7-c8518b292144)
+
 
 
 ## Hi, I’m Ana Clara! How are you?
