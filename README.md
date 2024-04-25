@@ -1,4 +1,4 @@
-Hi, I’m Ana Clara! How are you?
+## Hi, I’m Ana Clara! How are you?
 - 👀 I’m interested in technology and innovation.
 - ⚡ I'm currently study Data Science and Artifical Intelligence.
 - 🌱 I’m currently learning programming in python to data analytics, machine learning and database.
