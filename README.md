@@ -10,8 +10,8 @@
 
 ###  Connect with me
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png)](mailto:anaclaragr05@gmail.com)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/40px-Gmail_icon_%282020%29.svg.png)](mailto:anaclaragr05@gmail.com)
 
 
 
