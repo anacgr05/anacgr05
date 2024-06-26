@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning programming in python to data analytics, machine learning, optimization and simulation, database and data storytelling.
 - 💞️ I seek to collaborate in the world with humanized technology.
 
-# Connect with me
+###  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ana-clara-rodrigues-1068b6272l)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:anaclaragr05@gmail.com)
