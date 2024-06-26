@@ -10,6 +10,7 @@
 
 ###  Connect with me
 
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png)](https://www.linkedin.com/seu-perfil)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
 [![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
