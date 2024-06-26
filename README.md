@@ -10,7 +10,7 @@
 
 ###  Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:anaclaragr05@gmail.com)
 
 <!---
