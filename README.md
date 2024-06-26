@@ -4,9 +4,9 @@
 
 ## Hi, I’m Ana Clara! How are you?
 - 👀 I’m interested in technology and innovation.
-- ⚡ I'm currently study Data Science and Artificial Intelligence and IT Governance intern.
+- ⚡ I'm currently a Data Science and Artificial Intelligence student and an IT Governance intern.
 - 🌱 I’m currently learning programming in python to data analytics, machine learning, optimization and simulation, database and data storytelling.
-- 💞️ I’m looking to collaborate in the world with humanized technology.
+- 💞️ I seek to collaborate in the world with humanized technology.
 
 
 <!---
