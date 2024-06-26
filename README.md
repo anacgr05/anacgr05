@@ -12,8 +12,8 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-rodrigues-1068b6272/)
+[![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
 
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:anaclaragr05@gmail.com)
 
 <!---
 anacgr05/anacgr05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
